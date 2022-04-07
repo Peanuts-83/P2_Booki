@@ -1,5 +1,15 @@
-# P2: HTML & CSS / Booki website.
+[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
-Vous avez trouvé votre premier stage en tant que développeur web chez Booki, une petite entreprise proposant un outil de planification de vacances ! Son site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur ambiance.
+# P2: HTML & CSS / Booki website
 
-Un nouveau design basé sur les principes du Material Design vient d’être réalisé par Loïc, designer UI.
+[![Visit website](./vignette.png)](https://peanuts-83.github.io/P2_Booki/)
+[![Project's presentation SlideShow](./pdf.png)](Slide_P2.pdf)
+
+## Project's presentation
+
+Booki is a small company offering a vacation planning tool! Its site allows users to find accommodation and activities in the city of their choice. The accommodations can also be filtered by theme, for example their budget or their atmosphere.
+
+Before definitively validating the design, the company decided to produce a prototype. I am responsible for creating this prototype by integrating the model in **HTML and CSS**.
+
+This project does not include functional elements, it is only HTML and CSS formatting. It is mobile, tablet and desktop **responsive**.

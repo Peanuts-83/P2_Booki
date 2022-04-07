@@ -1,5 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://developer.mozilla.org/fr/docs/Glossary/HTML5)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 # P2: HTML & CSS / Booki website
 
